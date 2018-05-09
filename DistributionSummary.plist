@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>天成玉石商城.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B42B2A098D7D57BA40462976AD184BFEEBA0A09A</string>
+				<key>dateExpires</key>
+				<string>2019/5/8</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8QZ4496LJL.com.ahapp.tcys</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8QZ4496LJL</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>8QZ4496LJL.com.ahapp.tcys</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>天成玉石商城.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>08445fcd-9b55-4f28-bb11-e5935a2c015b</string>
+				<key>name</key>
+				<string>20180508_TCYSSC_ProvisioningProfileDevelopment</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8QZ4496LJL</string>
+				<key>name</key>
+				<string>Calvert Ellis</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
